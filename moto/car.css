@@ -1,0 +1,32 @@
+
+h1{
+    color: rgb(1, 1, 20);
+    background-color: rgb(214, 228, 230);
+    padding: 10px;
+margin: 10px;
+border-color: rgb(31, 30, 29);
+border-style:solid;
+}
+p{
+    color: rgb(15, 12, 12);
+    font-size:20px;
+}
+
+.box{
+    margin-bottom:60px;
+    display: inline-block;
+    height: 400px;
+    width:220px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    margin: 25px;
+
+}
+img{
+    width:220px;
+    height:250px;
+}
+p{
+    font-size: 18px;
+}

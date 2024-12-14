@@ -1,0 +1,27 @@
+h1{
+    color: gold;
+background-color: black;
+padding: 50px;
+margin: 30px;
+border-color: gold;
+border-style:solid;
+}
+h2{ color: rgb(18, 17, 26);
+border-color: rgb(10, 172, 45);
+border-style:groove;
+
+}
+a{text-decoration: none;
+    color: black;
+
+}
+p{
+color: greenyellow;
+background-color: black;
+padding: 2%;
+}
+body{
+    
+    background-image: url(pexels.jpg);
+    background-repeat: no-repeat;
+}
